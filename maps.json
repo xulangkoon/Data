@@ -1,0 +1,6216 @@
+﻿{
+  "201905151852": {
+    "Id": 201905151852,
+    "Shield": 0,
+    "Coins": 2000,
+    "HealthMax": 10,
+    "IsInfinity": false,
+    "SoulClipsId": 201905301203,
+    "Eneymies": {
+      "1": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 202004091138,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "2": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909191734,
+              "Nums": 6,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "3": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909191734,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909201514,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 15
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909201514,
+              "Nums": 8,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0
+            },
+            {
+              "Id": 201909201517,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 5
+            }
+          ],
+          "StartDealyTime": 25
+        }
+      ],
+      "4": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909201514,
+              "Nums": 6,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0
+            },
+            {
+              "Id": 201909201517,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909191734,
+              "Nums": 8,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201909191734,
+              "Nums": 6,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0
+            },
+            {
+              "Id": 201909191734,
+              "Nums": 8,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0.5
+            },
+            {
+              "Id": 201909201517,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201909201530,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 25
+        }
+      ]
+    }
+  },
+  "201910171204": {
+    "Id": 201910171204,
+    "Shield": 0,
+    "Coins": 65,
+    "HealthMax": 1000,
+    "IsInfinity": false,
+    "SoulClipsId": 201905301204,
+    "DifficultRate": 1.5,
+    "Eneymies": {
+      "1": [
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 7.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 10.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 4
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4.3
+            },
+            {
+              "Id": 201909191734,
+              "Nums": 10,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.6
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam":2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.6
+            },
+            {
+              "Id": 201909191734,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.6
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3.2
+            }
+          ],
+          "StartDealyTime": 35
+        }
+      ],
+      "2": [
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201909191734,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.6
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.4,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 1.1,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.1,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 0.4
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 2.2
+            }
+
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 8,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 3.5
+            }
+
+          ],
+          "StartDealyTime": 85
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 8,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.5
+            }
+
+          ],
+          "StartDealyTime": 75
+        }
+      ],
+      "3": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.0
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 0.6
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 5.5
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 2.5,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 2.8,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 5,
+              "InitPerTeam": 5,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 5.5
+            }
+          ],
+          "StartDealyTime": 20
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 6
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            }
+          ],
+          "StartDealyTime": 40
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201909201514,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 15
+        }
+      ],
+      "4": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 3.4
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.0
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 4.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.7
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 13
+            },
+            {
+              "Id": 201909191734,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 8.5
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.8
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 3.8,
+              "InitTimePerTeam": 6
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.4
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 2.9,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2.3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.6
+            }
+          ],
+          "StartDealyTime": 35
+        }
+      ],
+      "5": [
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 6,
+              "InitTimePerUnit": 3.2,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 3.6
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 10,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.8
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 3.4,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.6
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2.6
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0.8
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 3.2
+            }
+          ],
+          "StartDealyTime": 25
+        }
+      ],
+      "6": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 5,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 2.3
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 3.0
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 10,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.2
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 3.2
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 10
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 2.3,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.8
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910241540,
+              "Nums":3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 5,
+              "InitPerTeam": 5,
+              "InitTimePerUnit": 2.6,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 2.5,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 0.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 5,
+              "InitPerTeam": 5,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 3.5
+            }
+          ],
+          "StartDealyTime": 20
+        }
+      ]
+    }
+  },
+  "201910211823": {
+    "Id": 201910211823,
+    "Shield": 0,
+    "Coins": 46,
+    "HealthMax": 25,
+    "IsInfinity": false,
+    "SoulClipsId": 201905301204,
+    "DifficultRate": 1.4,
+    "Eneymies": {
+      "1": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3.3
+            }
+          ],
+          "StartDealyTime": 3
+        }
+      ],
+      "2": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.4,
+              "InitTimePerTeam": 2.7
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 3
+            }
+          ],
+          "StartDealyTime": 2
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 2.5,
+              "InitTimePerTeam": 4.7
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 1.4,
+              "InitTimePerTeam": 4.2
+            }
+          ],
+          "StartDealyTime": 21
+        }
+      ],
+      "3": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.3,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1
+            }
+          ],
+          "StartDealyTime": 1
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 2.5,
+              "InitTimePerTeam": 4.3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 2.3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 8,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.4,
+              "InitTimePerTeam": 4.4
+            }
+          ],
+          "StartDealyTime": 1
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 2.4
+            }
+          ],
+          "StartDealyTime": 50
+        }
+
+      ],
+      "4": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 18
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.4
+            }
+          ],
+          "StartDealyTime": 1
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 1.5
+            }
+          ],
+          "StartDealyTime": 1
+        }
+
+      ],
+      "5": [
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 2
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.1
+            }
+          ],
+          "StartDealyTime": 2
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 12
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 9
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.7,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 10
+        }
+
+      ],
+      "6": [
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.3,
+              "InitTimePerTeam": 0.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.3,
+              "InitTimePerTeam": 0.9
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 5,
+              "InitPerTeam": 5,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 1.2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.3,
+              "InitTimePerTeam": 0.4
+            }
+          ],
+          "StartDealyTime": 2
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.3,
+              "InitTimePerTeam": 0.8
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 1.2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.5
+            }
+          ],
+          "StartDealyTime": 3
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.3,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 1.5
+            }
+          ],
+          "StartDealyTime": 1
+        }
+
+      ],
+      "7": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 1.6
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 1.5
+            }
+          ],
+          "StartDealyTime": 1
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 5,
+              "InitPerTeam": 5,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 6,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 4
+        }
+
+      ],
+      "8": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 1.6
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 1.6
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.3,
+              "InitTimePerTeam": 1.8
+            }
+          ],
+          "StartDealyTime": 1
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 10
+        }
+
+      ]
+
+    }
+  },
+  "201911131518": {
+    "Id": 201911131518,
+    "Shield": 0,
+    "Coins": 100,
+    "HealthMax": 10,
+    "IsInfinity": true,
+    "SoulClipsId": 201905301205,
+    "RoadLinesNum": 3,
+    "DifficultRate": 2,
+    "Eneymies": {
+      "1": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 10,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 1.5
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "2": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 1
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0.5
+            },
+            {
+              "Id": 201904251512,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 1
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 0
+            },
+            {
+              "Id": 201904251512,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 1
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "3": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 1
+            },
+            {
+              "Id": 201909191734,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 1
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 2,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 1
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 1
+            },
+            {
+              "Id": 201909191734,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 1
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 1
+            }
+          ],
+          "StartDealyTime": 6
+        }
+      ],
+      "4": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 5,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 1.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 5,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 5,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 1.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 5,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 1.5
+            }
+          ],
+          "StartDealyTime": 15
+        }
+      ],
+      "5": [
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 10,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 1.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 5,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 1.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 6,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ]
+    }
+  },
+  "201910232002": {
+    "Id": 201910232002,
+    "Shield": 0,
+    "Coins": 65,
+    "HealthMax": 1000,
+    "IsInfinity": false,
+    "SoulClipsId": 201905301204,
+    "DifficultRate": 1.3,
+    "Eneymies": {
+      "1": [
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 1.2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.2
+            }
+          ],
+          "StartDealyTime": 8
+        }
+      ],
+      "2": [
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 3.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 1.9
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.9
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 1.6
+            }
+          ],
+          "StartDealyTime": 6
+        }
+      ],
+      "3": [
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 12,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 18
+        },
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.0
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.6
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.3
+            }
+          ],
+          "StartDealyTime": 38
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.7,
+              "InitTimePerTeam": 3.0
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.7,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.0
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "4": [
+        {
+          "RoadLineID": 5,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.0
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 6.7
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 4.0
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 2.9
+            }
+          ],
+          "StartDealyTime": 18
+        },
+        {
+          "RoadLineID": 5,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.4
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 4.6
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            }
+
+          ],
+          "StartDealyTime": 30
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 1.6
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.6
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.6
+            }
+          ],
+          "StartDealyTime": 5
+        },
+        {
+          "RoadLineID": 4,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4.0
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 20
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 26
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.9,
+              "InitTimePerTeam": 4.0
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "5": [
+        {
+          "RoadLineID": 4,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.0
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 5.0
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.0
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 4.5
+            }
+          ],
+          "StartDealyTime": 20
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 2.5,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3.0
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3.0
+            }
+          ],
+          "StartDealyTime": 30
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 3.0
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.0
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 4
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.8
+            }
+          ],
+          "StartDealyTime": 10
+        }
+      ],
+      "6": [
+        {
+          "RoadLineID": 4,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.4,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.4,
+              "InitTimePerTeam": 5.0
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 5,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 12
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 15
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 10,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "7": [
+        {
+          "RoadLineID": 4,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.4
+            },
+            {
+              "Id": 201910231027,
+              "Nums":4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 4.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.3
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.3
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            }
+          ],
+          "StartDealyTime": 13
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 20
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.8
+            }
+          ],
+          "StartDealyTime": 5
+        },
+        {
+          "RoadLineID": 5,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 15
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4
+            }
+          ],
+          "StartDealyTime": 30
+        },
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 8.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 5.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 5.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4
+            }
+          ],
+          "StartDealyTime": 43
+        }
+      ],
+      "8": [
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 16
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 5.6
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4.8
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 2.6,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 2.6,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.4,
+              "InitTimePerTeam": 4.5
+            }
+          ],
+          "StartDealyTime": 3.5
+        },
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 4.5
+            }
+          ],
+          "StartDealyTime": 13
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 10,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 4
+            }
+          ],
+          "StartDealyTime": 30
+        },
+        {
+          "RoadLineID": 5,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 6
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 4.5
+            }
+          ],
+          "StartDealyTime": 25
+        }
+      ],
+      "9": [
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 16
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 10,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 5
+            }
+          ],
+          "StartDealyTime": 15
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            }
+          ],
+          "StartDealyTime": 20
+        },
+        {
+          "RoadLineID": 5,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.8
+            }
+          ],
+          "StartDealyTime": 28
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            }
+          ],
+          "StartDealyTime": 28
+        }
+      ],
+      "10": [
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 5,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.6
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam":2.5
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "11": [
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 10,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 5.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 15
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 4,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910241540,
+              "Nums":1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.5
+            }
+          ],
+          "StartDealyTime": 20
+        }
+      ],
+      "12": [
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 2.5,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 2.5,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 6
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 3.2,
+              "InitTimePerTeam": 10
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 3.2,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3
+            }
+
+          ],
+          "StartDealyTime": 25
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 1
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.3
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.4,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            }
+
+
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 2.5,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 6.3
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 4.3
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 5,
+              "InitPerTeam": 5,
+              "InitTimePerUnit": 2.5,
+              "InitTimePerTeam": 4.3
+            }
+
+          ],
+          "StartDealyTime": 18
+        },
+        {
+          "RoadLineID": 4,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.6
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.8
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 5,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.9,
+              "InitTimePerTeam": 3.3
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 3.6
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            }
+
+          ],
+          "StartDealyTime": 10
+        }
+      ]
+    }
+  },
+  "201909261709": {
+    "Id": 201909261709,
+    "Shield": 0,
+    "Coins": 80,
+    "HealthMax": 10,
+    "IsInfinity": false,
+    "SoulClipsId": 201905301203,
+    "Eneymies": {
+      "1": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909191734,
+              "Nums": 8,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "2": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909191734,
+              "Nums": 6,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "3": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909191734,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909201514,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 15
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909201514,
+              "Nums": 8,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0
+            },
+            {
+              "Id": 201909201517,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 5
+            }
+          ],
+          "StartDealyTime": 25
+        }
+      ],
+      "4": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909201514,
+              "Nums": 6,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0
+            },
+            {
+              "Id": 201909201517,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909191734,
+              "Nums": 8,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201909191734,
+              "Nums": 6,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0
+            },
+            {
+              "Id": 201909191734,
+              "Nums": 8,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0.5
+            },
+            {
+              "Id": 201909201517,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201909201530,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 25
+        }
+      ]
+    }
+  },
+  "201907301433": {
+    "Id": 201907301433,
+    "Shield": 0,
+    "Coins": 60,
+    "HealthMax": 10,
+    "IsInfinity": false,
+    "SoulClipsId": 201905301204,
+    "Eneymies": {
+      "1": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 50,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0.5
+            }
+          ],
+          "StartDealyTime": 2
+        }
+      ],
+      "2": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "3": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "4": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "5": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "6": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "7": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "8": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "9": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "10": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "11": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "12": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201904251512,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201904251512,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201904251512,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 5
+        }
+      ]
+    }
+  },
+  "201911131449": {
+    "Id": 201911131449,
+    "Shield": 0,
+    "Coins": 67,
+    "HealthMax": 10000,
+    "IsInfinity": false,
+    "SoulClipsId": 201905301204,
+    "DifficultRate": 1.4,
+    "Eneymies": {
+      "1": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 4.0
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 5.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 7.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 6,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 2.8
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.4
+            }
+          ],
+          "StartDealyTime": 30
+        }
+      ],
+      "2": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910241540,
+              "Nums": 10,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3
+            }
+          ],
+          "StartDealyTime": 28
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231027,
+              "Nums": 8,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 2.8
+            }
+          ],
+          "StartDealyTime": 15
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 3
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "3": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.3,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.4,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 1
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 2.6
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 10,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.0
+            }
+          ],
+          "StartDealyTime": 15
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910241540,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.2
+            }
+          ],
+          "StartDealyTime": 38
+        }
+      ],
+      "4": [
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.8
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.5
+            },{
+              "Id": 201909031556,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 2.0,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.4,
+              "InitTimePerTeam": 1.8
+            }
+          ],
+          "StartDealyTime": 28
+        }
+      ],
+      "5": [
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 5,
+              "InitPerTeam": 5,
+              "InitTimePerUnit": 2.0,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 2.0,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 8,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.6
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.0
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 8,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.2
+            }
+          ],
+          "StartDealyTime": 15
+        }
+      ],
+      "6": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 4.5,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.3
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 5,
+          "Eneymies": [
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.2
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.2
+            }
+          ],
+          "StartDealyTime": 15
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 5,
+              "InitPerTeam": 5,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 1.5
+            }
+          ],
+          "StartDealyTime": 20
+        }
+      ],
+      "7": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 3.2
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.2
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.1,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 12,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 40
+        }
+      ],
+      "8": [
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.9,
+              "InitTimePerTeam": 3.0
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.3,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.3,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 2.3,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 1.9
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.8,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 2.2
+            }
+          ],
+          "StartDealyTime": 15
+        }
+      ],
+      "9": [
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.3
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.1
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.0
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.4
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 5,
+          "Eneymies": [
+
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.2
+            },
+
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.1
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 12,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.4
+            }
+          ],
+          "StartDealyTime": 40
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 2.0
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.8
+            }
+          ],
+          "StartDealyTime": 30
+        }
+      ],
+      "10": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2
+            },
+
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 5,
+              "InitPerTeam": 5,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.6,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.2
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 12,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.5
+            }
+          ],
+          "StartDealyTime": 30
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 2,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 20
+        }
+      ],
+      "11": [
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.3,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201910221559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.8
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910221559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.2
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.8
+            }
+          ],
+          "StartDealyTime": 15
+        },
+        {
+          "RoadLineID": 4,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.8
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "12": [
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 1.9
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.0
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 5,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 1
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 10,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.2
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 1.9
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 1.9
+            },
+            {
+              "Id": 201910221559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.0
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910221559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 4
+            }
+          ],
+          "StartDealyTime": 25
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 10,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 1.3
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 9,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 1.9
+            },
+            {
+              "Id": 201910221559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 4
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910221559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 4
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "13": [
+        {
+          "RoadLineID": 3,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.4,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 3,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 1.5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 3.5
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2.0
+            }
+          ],
+          "StartDealyTime": 15
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.2
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 10,
+              "InitPerTeam": 5,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.2
+            },
+            {
+              "Id": 201910221559,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 2.6,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 2.6,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910231324,
+              "Nums": 10,
+              "InitPerTeam": 5,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3.2
+            }
+          ],
+          "StartDealyTime": 15
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 6,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 2.0
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 2.0
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.6,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 5,
+              "InitPerTeam": 5,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201911271559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.9,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201909031556,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 20
+        },
+        {
+          "RoadLineID": 1,
+          "Eneymies": [
+            {
+              "Id": 201910221559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 4.5
+            },
+            {
+              "Id": 201911271559,
+              "Nums":2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.5,
+              "InitTimePerTeam": 2.6
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 1.0,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            },
+            {
+              "Id": 201911281632,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910221559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 35
+        },
+        {
+          "RoadLineID": 5,
+          "Eneymies": [
+            {
+              "Id": 201910221559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910261622,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201910231027,
+              "Nums": 6,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 2.2
+            },
+            {
+              "Id": 201910241747,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 0.8
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 2,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.8
+            },
+            {
+              "Id": 201910221559,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 3
+            },
+            {
+              "Id": 201910241540,
+              "Nums": 4,
+              "InitPerTeam": 2,
+              "InitTimePerUnit": 1.2,
+              "InitTimePerTeam": 1.8
+            }
+          ],
+          "StartDealyTime": 40
+        }
+      ],
+      "14": [
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.2
+            }
+          ],
+          "StartDealyTime": 20
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.2
+            }
+          ],
+          "StartDealyTime": 20
+        }
+      ],
+      "15": [
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201910231324,
+              "Nums": 6,
+              "InitPerTeam": 3,
+              "InitTimePerUnit": 0.5,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 2,
+          "Eneymies": [
+            {
+              "Id": 201909031556,
+              "Nums": 8,
+              "InitPerTeam": 4,
+              "InitTimePerUnit": 0.8,
+              "InitTimePerTeam": 3.2
+            }
+          ],
+          "StartDealyTime": 20
+        }
+      ]
+    }
+  },
+  "201911172157": {
+    "Id": 201911172157,
+    "Shield": 0,
+    "Coins": 20,
+    "HealthMax": 10,
+    "IsInfinity": false,
+    "SoulClipsId": 201905301203,
+    "Eneymies": {
+      "1": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909191734,
+              "Nums": 8,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2.5
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "2": [
+        {
+          "RoadLineID": 2,
+		  "FallBackRoadLineID":0,
+          "Eneymies": [
+            {
+              "Id": 201909191734,
+              "Nums": 6,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201909201514,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        }
+      ],
+      "3": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909191734,
+              "Nums": 4,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909201514,
+              "Nums": 3,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 15
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909201514,
+              "Nums": 8,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0
+            },
+            {
+              "Id": 201909201517,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 5
+            }
+          ],
+          "StartDealyTime": 25
+        }
+      ],
+      "4": [
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909201514,
+              "Nums": 6,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0
+            },
+            {
+              "Id": 201909201517,
+              "Nums": 2,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 5
+            }
+          ],
+          "StartDealyTime": 0
+        },
+        {
+          "RoadLineID": 0,
+          "Eneymies": [
+            {
+              "Id": 201909191734,
+              "Nums": 8,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            },
+            {
+              "Id": 201909191734,
+              "Nums": 6,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0
+            },
+            {
+              "Id": 201909191734,
+              "Nums": 8,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 0.5
+            },
+            {
+              "Id": 201909201517,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 5
+            },
+            {
+              "Id": 201909201530,
+              "Nums": 1,
+              "InitPerTeam": 1,
+              "InitTimePerUnit": 0.2,
+              "InitTimePerTeam": 2
+            }
+          ],
+          "StartDealyTime": 25
+        }
+      ]
+    }
+  }
+}
